@@ -1,0 +1,4 @@
+.env
+wishli.db
+venv/
+__pycache__/
